@@ -1,6 +1,6 @@
 {
  "project": "RMI101",
- "synced_at": "2026-10-20T03:03:05.342Z",
+ "synced_at": "2026-10-20T22:19:05.526Z",
  "issues": [
   {
    "key": "RMI101-7",
@@ -533,7 +533,7 @@
   {
    "key": "RMI101-87",
    "epic": "RMI101-4",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-06",
    "due": "2026-10-12",
    "summary": "3.2a — T1 Week 4 - Technical Build"
@@ -541,7 +541,7 @@
   {
    "key": "RMI101-88",
    "epic": "RMI101-4",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-13",
    "due": "2026-10-14",
    "summary": "3.4 — T1 Week 4 - Build client environment QA"
@@ -629,7 +629,7 @@
   {
    "key": "RMI101-99",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-03",
    "due": "2026-11-09",
    "summary": "3.2a — T1 Assessment - Technical Build"
@@ -637,7 +637,7 @@
   {
    "key": "RMI101-100",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-10",
    "due": "2026-11-11",
    "summary": "3.4 — T1 Assessment - Build client environment QA"
@@ -653,7 +653,7 @@
   {
    "key": "RMI101-102",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-09-22",
    "due": "2026-11-02",
    "summary": "3.2a — H5P and interactive element build"
@@ -749,7 +749,7 @@
   {
    "key": "RMI101-132",
    "epic": "RMI101-117",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-12",
    "due": "2026-10-12",
    "summary": "2.11 — Week 5 - Design Milestone - Client Sign-Off (Gateway 2)"
@@ -829,7 +829,7 @@
   {
    "key": "RMI101-155",
    "epic": "RMI101-117",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-26",
    "due": "2026-10-26",
    "summary": "2.3, 2.7, 2.8 — Week 0 - Storyboard Remediation"
@@ -997,7 +997,7 @@
   {
    "key": "RMI101-205",
    "epic": "RMI101-117",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-12",
    "due": "2026-10-12",
    "summary": "2.3, 2.7, 2.8 — Week 5 - Storyboard Remediation"
@@ -1045,7 +1045,7 @@
   {
    "key": "RMI101-219",
    "epic": "RMI101-117",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-22",
    "due": "2026-10-23",
    "summary": "2.4a — Week 0 - Graphic design assets"
@@ -1461,7 +1461,7 @@
   {
    "key": "RMI101-317",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-09-18",
    "due": "2026-09-21",
    "summary": "3.4 — T1 Week 1 - Build client environment QA"
@@ -1501,7 +1501,7 @@
   {
    "key": "RMI101-323",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-11-06",
    "due": "2026-11-09",
    "summary": "3.4 — T1 Assessment - Build client environment QA"
@@ -1533,7 +1533,7 @@
   {
    "key": "RMI101-327",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-09-18",
    "due": "2026-10-29",
    "summary": "3.2a — H5P and interactive element build"
@@ -1581,7 +1581,7 @@
   {
    "key": "RMI101-333",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-09-11",
    "due": "2026-09-17",
    "summary": "3.2a — T1 Week 1 - Technical Build"
@@ -1597,7 +1597,7 @@
   {
    "key": "RMI101-335",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-02",
    "due": "2026-10-08",
    "summary": "3.2a — T1 Week 4 - Technical Build"
@@ -1613,7 +1613,7 @@
   {
    "key": "RMI101-337",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-09-18",
    "due": "2026-09-24",
    "summary": "3.2a — T1 Week 2 - Technical Build"
@@ -1677,7 +1677,7 @@
   {
    "key": "RMI101-345",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-09-25",
    "due": "2026-09-28",
    "summary": "3.4 — T1 Week 2 - Build client environment QA"
@@ -1693,7 +1693,7 @@
   {
    "key": "RMI101-347",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-09",
    "due": "2026-10-12",
    "summary": "3.4 — T1 Week 4 - Build client environment QA"
@@ -1757,7 +1757,7 @@
   {
    "key": "RMI101-355",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-30",
    "due": "2026-11-05",
    "summary": "3.2a — T1 Assessment - Technical Build"
@@ -1773,7 +1773,7 @@
   {
    "key": "RMI101-357",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-02",
    "due": "2026-10-05",
    "summary": "3.4 — T1 Week 3 - Build client environment QA"
@@ -1789,7 +1789,7 @@
   {
    "key": "RMI101-359",
    "epic": "RMI101-314",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-09-25",
    "due": "2026-10-01",
    "summary": "3.2a — T1 Week 3 - Technical Build"
