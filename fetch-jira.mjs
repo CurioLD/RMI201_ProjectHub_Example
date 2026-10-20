@@ -16,7 +16,7 @@ const EXCLUDED_EPICS = ['RMI101-110', 'RMI101-284'];
 const JQL = `project = ${PROJECT} AND issuetype not in subTaskIssueTypes() AND issuetype != Epic`
   + ` AND ("Epic Link" is EMPTY OR "Epic Link" not in (${EXCLUDED_EPICS.join(', ')})) ORDER BY key`;
 const FIELDS = ['summary', 'status', 'duedate', 'customfield_10706', 'customfield_10015', 'parent'];
-const OUT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 'site', 'project-data.json');
+const OUT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), 'project-data.json');
 
 // Client view: internal rows left out, internal names taken out of titles.
 const HIDE = [
