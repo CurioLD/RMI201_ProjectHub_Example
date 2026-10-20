@@ -1,0 +1,2814 @@
+{
+ "project": "RMI101",
+ "synced_at": "2026-10-20T02:12:21.490Z",
+ "issues": [
+  {
+   "key": "RMI101-7",
+   "epic": "RMI101-1",
+   "status": "To do",
+   "start": "2026-08-24",
+   "due": "2026-08-28",
+   "summary": "0.1, 1.1 — Project set-up, kick-off coordination and comms plan"
+  },
+  {
+   "key": "RMI101-8",
+   "epic": "RMI101-1",
+   "status": "To do",
+   "start": "2026-08-24",
+   "due": "2026-11-11",
+   "summary": "0.1, 0.2 — Project management, governance and weekly check-ins"
+  },
+  {
+   "key": "RMI101-9",
+   "epic": "RMI101-1",
+   "status": "To do",
+   "start": "2026-08-24",
+   "due": "2026-11-11",
+   "summary": "0.1, 0.2, 0.3 — Project management, governance and weekly check-ins"
+  },
+  {
+   "key": "RMI101-14",
+   "epic": "RMI101-2",
+   "status": "Done",
+   "start": "2026-08-26",
+   "due": "2026-09-01",
+   "summary": "1.1, 1.7-1.10 — Kick-off week (Governance and project set up)"
+  },
+  {
+   "key": "RMI101-15",
+   "epic": "RMI101-2",
+   "status": "Done",
+   "start": "2026-08-26",
+   "due": "2026-09-01",
+   "summary": "1.3, 1.5 — Kick-off week (Governance and project set up)"
+  },
+  {
+   "key": "RMI101-16",
+   "epic": "RMI101-2",
+   "status": "Done",
+   "start": "2026-08-26",
+   "due": "2026-09-01",
+   "summary": "1.3 — Technical intake — LMS, SCORM, LTI, browser constraints"
+  },
+  {
+   "key": "RMI101-17",
+   "epic": "RMI101-2",
+   "status": "Done",
+   "start": "2026-08-26",
+   "due": "2026-09-01",
+   "summary": "1.4 — Brand intake and asset collection"
+  },
+  {
+   "key": "RMI101-18",
+   "epic": "RMI101-2",
+   "status": "Done",
+   "start": "2026-09-02",
+   "due": "2026-09-02",
+   "summary": "1.11, 1.12 — Blueprinting Session"
+  },
+  {
+   "key": "RMI101-20",
+   "epic": "RMI101-2",
+   "status": "Done",
+   "start": "2026-09-02",
+   "due": "2026-09-04",
+   "summary": "1.13, 1.14, 1.16, 2.1 — Blueprint finalisation (Gateway 1)"
+  },
+  {
+   "key": "RMI101-21",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-10",
+   "due": "2026-09-11",
+   "summary": "2.2 — Week 1 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-23",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-14",
+   "due": "2026-09-15",
+   "summary": "2.6 — Week 1 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-24",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-16",
+   "due": "2026-09-16",
+   "summary": "2.3, 2.7, 2.8 — Week 1 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-25",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-14",
+   "due": "2026-09-15",
+   "summary": "2.4b — Week 1 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-26",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-09",
+   "due": "2026-09-16",
+   "summary": "2.4a — Week 1 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-27",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-16",
+   "due": "2026-09-16",
+   "summary": "2.11 — Week 1 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-28",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-17",
+   "due": "2026-09-18",
+   "summary": "2.2 — Week 2 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-30",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-21",
+   "due": "2026-09-22",
+   "summary": "2.6 — Week 2 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-31",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-23",
+   "due": "2026-09-23",
+   "summary": "2.3, 2.7, 2.8 — Week 2 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-32",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-21",
+   "due": "2026-09-22",
+   "summary": "2.4b — Week 2 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-33",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-28",
+   "due": "2026-10-02",
+   "summary": "2.4a — Week 2 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-34",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-23",
+   "due": "2026-09-23",
+   "summary": "2.11 — Week 2 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-35",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-24",
+   "due": "2026-09-25",
+   "summary": "2.2 — Week 3 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-37",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-28",
+   "due": "2026-09-29",
+   "summary": "2.6 — Week 3 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-38",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-30",
+   "due": "2026-09-30",
+   "summary": "2.3, 2.7, 2.8 — Week 3 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-39",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-09-28",
+   "due": "2026-09-29",
+   "summary": "2.4b — Week 3 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-40",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-08",
+   "due": "2026-10-15",
+   "summary": "2.4a — Week 3 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-41",
+   "epic": "RMI101-3",
+   "status": "In progress",
+   "start": "2026-09-30",
+   "due": "2026-09-30",
+   "summary": "2.11 — Week 3 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-42",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-01",
+   "due": "2026-10-02",
+   "summary": "2.2 — Week 4 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-44",
+   "epic": "RMI101-3",
+   "status": "In progress",
+   "start": "2026-10-05",
+   "due": "2026-10-06",
+   "summary": "2.6 — Week 4 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-45",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-07",
+   "due": "2026-10-07",
+   "summary": "2.3, 2.7, 2.8 — Week 4 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-46",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-05",
+   "due": "2026-10-06",
+   "summary": "2.4b — Week 4 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-47",
+   "epic": "RMI101-3",
+   "status": "In progress",
+   "start": "2026-10-09",
+   "due": "2026-10-19",
+   "summary": "2.4a — Week 4 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-48",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-07",
+   "due": "2026-10-07",
+   "summary": "2.11 — Week 4 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-49",
+   "epic": "RMI101-3",
+   "status": "In progress",
+   "start": "2026-10-08",
+   "due": "2026-10-09",
+   "summary": "2.2 — Week 5 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-51",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-12",
+   "due": "2026-10-13",
+   "summary": "2.6 — Week 5- Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-52",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-14",
+   "due": "2026-10-14",
+   "summary": "2.3, 2.7, 2.8 — Week 5 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-53",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-13",
+   "due": "2026-10-13",
+   "summary": "2.4b — Week 5 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-54",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-19",
+   "due": "2026-10-26",
+   "summary": "2.4a — Week 5 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-55",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-14",
+   "due": "2026-10-14",
+   "summary": "2.11 — Week 5 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-56",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-15",
+   "due": "2026-10-16",
+   "summary": "2.2 — Week 6 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-58",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-19",
+   "due": "2026-10-20",
+   "summary": "2.6 — Week 6 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-59",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-21",
+   "due": "2026-10-21",
+   "summary": "2.3, 2.7, 2.8 — Week 6 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-60",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-19",
+   "due": "2026-10-20",
+   "summary": "2.4b — Week 6 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-61",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-19",
+   "due": "2026-10-20",
+   "summary": "2.4a — Week 6 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-62",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-21",
+   "due": "2026-10-21",
+   "summary": "2.11 — Week 6 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-63",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-22",
+   "due": "2026-10-23",
+   "summary": "2.2 — Week 0 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-65",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-26",
+   "due": "2026-10-27",
+   "summary": "2.6 — Week 0 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-66",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-28",
+   "due": "2026-10-28",
+   "summary": "2.3, 2.7, 2.8 — Week 0 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-67",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-27",
+   "summary": "2.4b — Week 0 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-68",
+   "epic": "RMI101-3",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-27",
+   "summary": "2.4a — Week 0 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-69",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-28",
+   "due": "2026-10-28",
+   "summary": "2.11 — Week 0 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-70",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-10-29",
+   "due": "2026-10-30",
+   "summary": "2.2 — Assessment - authoring"
+  },
+  {
+   "key": "RMI101-71",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-11-02",
+   "due": "2026-11-03",
+   "summary": "2.6 — Assessment - SME Review"
+  },
+  {
+   "key": "RMI101-72",
+   "epic": "RMI101-3",
+   "status": "In progress",
+   "start": "2026-11-04",
+   "due": "2026-11-04",
+   "summary": "2.3, 2.7, 2.8 — Assessment -  Remediation"
+  },
+  {
+   "key": "RMI101-73",
+   "epic": "RMI101-3",
+   "status": "Done",
+   "start": "2026-11-04",
+   "due": "2026-11-04",
+   "summary": "2.11 — Assessment - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-76",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-09-14",
+   "due": "2026-09-14",
+   "summary": "3.1 — Build briefing and Canvas shell setup"
+  },
+  {
+   "key": "RMI101-77",
+   "epic": "RMI101-4",
+   "status": "Done",
+   "start": "2026-09-14",
+   "due": "2026-09-14",
+   "summary": "3.1 — Build briefing and Canvas shell setup"
+  },
+  {
+   "key": "RMI101-78",
+   "epic": "RMI101-4",
+   "status": "Done",
+   "start": "2026-09-15",
+   "due": "2026-09-21",
+   "summary": "3.2a — T1 Week 1 - Technical Build"
+  },
+  {
+   "key": "RMI101-79",
+   "epic": "RMI101-4",
+   "status": "Done",
+   "start": "2026-09-22",
+   "due": "2026-09-23",
+   "summary": "3.4 — T1 Week 1 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-80",
+   "epic": "RMI101-4",
+   "status": "In progress",
+   "start": "2026-09-24",
+   "due": "2026-09-24",
+   "summary": "3.6 — T1 Week 1 - Build Remediation"
+  },
+  {
+   "key": "RMI101-81",
+   "epic": "RMI101-4",
+   "status": "Done",
+   "start": "2026-09-22",
+   "due": "2026-09-28",
+   "summary": "3.2a — T1 Week 2 - Technical Build"
+  },
+  {
+   "key": "RMI101-82",
+   "epic": "RMI101-4",
+   "status": "Done",
+   "start": "2026-09-29",
+   "due": "2026-09-30",
+   "summary": "3.4 — T1 Week 2 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-83",
+   "epic": "RMI101-4",
+   "status": "In progress",
+   "start": "2026-10-01",
+   "due": "2026-10-01",
+   "summary": "3.6 — T1 Week 2 - Build Remediation"
+  },
+  {
+   "key": "RMI101-84",
+   "epic": "RMI101-4",
+   "status": "Done",
+   "start": "2026-09-29",
+   "due": "2026-10-05",
+   "summary": "3.2a — T1 Week 3 - Technical Build"
+  },
+  {
+   "key": "RMI101-85",
+   "epic": "RMI101-4",
+   "status": "Done",
+   "start": "2026-10-06",
+   "due": "2026-10-07",
+   "summary": "3.4 — T1 Week 3 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-86",
+   "epic": "RMI101-4",
+   "status": "In progress",
+   "start": "2026-10-08",
+   "due": "2026-10-08",
+   "summary": "3.6 — T1 Week 3 - Build Remediation"
+  },
+  {
+   "key": "RMI101-87",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-06",
+   "due": "2026-10-12",
+   "summary": "3.2a — T1 Week 4 - Technical Build"
+  },
+  {
+   "key": "RMI101-88",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-13",
+   "due": "2026-10-14",
+   "summary": "3.4 — T1 Week 4 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-89",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-15",
+   "due": "2026-10-15",
+   "summary": "3.6 — T1 Week 4 - Build Remediation"
+  },
+  {
+   "key": "RMI101-90",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-13",
+   "due": "2026-10-19",
+   "summary": "3.2a — T1 Week 5 - Technical Build"
+  },
+  {
+   "key": "RMI101-91",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-20",
+   "due": "2026-10-21",
+   "summary": "3.4 — T1 Week 5 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-92",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-22",
+   "due": "2026-10-22",
+   "summary": "3.6 — T1 Week 5 - Build Remediation"
+  },
+  {
+   "key": "RMI101-93",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-20",
+   "due": "2026-10-26",
+   "summary": "3.2a — T1 Week 6 - Technical Build"
+  },
+  {
+   "key": "RMI101-94",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-27",
+   "due": "2026-10-28",
+   "summary": "3.4 — T1 Week 6 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-95",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-10-29",
+   "due": "2026-10-29",
+   "summary": "3.6 — T1 Week 6 - Build Remediation"
+  },
+  {
+   "key": "RMI101-96",
+   "epic": "RMI101-4",
+   "status": "Done",
+   "start": "2026-10-27",
+   "due": "2026-11-02",
+   "summary": "3.2a — T1 Week 0 - Technical Build"
+  },
+  {
+   "key": "RMI101-97",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "3.4 — T1 Week 0 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-98",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-11-05",
+   "due": "2026-11-05",
+   "summary": "3.6 — T1 Week 0 - Build Remediation"
+  },
+  {
+   "key": "RMI101-99",
+   "epic": "RMI101-4",
+   "status": "In progress",
+   "start": "2026-11-03",
+   "due": "2026-11-09",
+   "summary": "3.2a — T1 Assessment - Technical Build"
+  },
+  {
+   "key": "RMI101-100",
+   "epic": "RMI101-4",
+   "status": "In progress",
+   "start": "2026-11-10",
+   "due": "2026-11-11",
+   "summary": "3.4 — T1 Assessment - Build client environment QA"
+  },
+  {
+   "key": "RMI101-101",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-12",
+   "summary": "3.6 — T1 Assessment - Build Remediation"
+  },
+  {
+   "key": "RMI101-102",
+   "epic": "RMI101-4",
+   "status": "In progress",
+   "start": "2026-09-22",
+   "due": "2026-11-02",
+   "summary": "3.2a — H5P and interactive element build"
+  },
+  {
+   "key": "RMI101-103",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-12",
+   "summary": "3.3, 3.7 — Build review — submission and handover pack"
+  },
+  {
+   "key": "RMI101-104",
+   "epic": "RMI101-4",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-13",
+   "summary": "3.7 — Client email sign-off (Gateway 3)"
+  },
+  {
+   "key": "RMI101-105",
+   "epic": "RMI101-5",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-12",
+   "summary": "4.1 — Handover email and delivery"
+  },
+  {
+   "key": "RMI101-108",
+   "epic": "RMI101-5",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-25",
+   "summary": "5.1 — Post go-live hot fix and remediation — 2 weeks"
+  },
+  {
+   "key": "RMI101-119",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-07",
+   "due": "2026-09-09",
+   "summary": "2.2 — Week 1 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-121",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-17",
+   "due": "2026-09-18",
+   "summary": "2.6 — Week 2 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-122",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-14",
+   "due": "2026-09-14",
+   "summary": "2.3, 2.7, 2.8 — Week 1 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-124",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-28",
+   "due": "2026-09-28",
+   "summary": "2.11 — Week 3 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-126",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-17",
+   "due": null,
+   "summary": "2.4a — Week 2 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-128",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-05",
+   "due": "2026-10-05",
+   "summary": "2.3, 2.7, 2.8 — Week 4 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-130",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-29",
+   "due": "2026-09-30",
+   "summary": "2.2 — Week 4 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-132",
+   "epic": "RMI101-117",
+   "status": "In progress",
+   "start": "2026-10-12",
+   "due": "2026-10-12",
+   "summary": "2.11 — Week 5 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-134",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-01",
+   "due": "2026-10-02",
+   "summary": "2.4b — Week 4 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-136",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-11-02",
+   "due": "2026-11-02",
+   "summary": "2.11 — Assessment - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-138",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-10",
+   "due": "2026-09-11",
+   "summary": "2.6 — Week 1 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-140",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-10",
+   "due": "2026-09-11",
+   "summary": "2.4b — Week 1 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-142",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-16",
+   "due": "2026-09-22",
+   "summary": "2.4a — Week 1 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-143",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-14",
+   "due": "2026-09-14",
+   "summary": "2.11 — Week 1 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-147",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-21",
+   "due": "2026-09-21",
+   "summary": "2.11 — Week 2 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-149",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-21",
+   "due": "2026-09-21",
+   "summary": "2.3, 2.7, 2.8 — Week 2 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-151",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-05",
+   "due": "2026-10-05",
+   "summary": "2.11 — Week 4 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-155",
+   "epic": "RMI101-117",
+   "status": "In progress",
+   "start": "2026-10-26",
+   "due": "2026-10-26",
+   "summary": "2.3, 2.7, 2.8 — Week 0 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-158",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-29",
+   "due": "2026-10-30",
+   "summary": "2.6 — Assessment - SME Review"
+  },
+  {
+   "key": "RMI101-160",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-26",
+   "due": "2026-10-26",
+   "summary": "2.11 — Week 0 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-163",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-11-02",
+   "due": "2026-11-02",
+   "summary": "2.3, 2.7, 2.8 — Assessment -  Remediation"
+  },
+  {
+   "key": "RMI101-167",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-17",
+   "due": "2026-09-18",
+   "summary": "2.4b — Week 2 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-168",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-28",
+   "due": "2026-09-28",
+   "summary": "2.3, 2.7, 2.8 — Week 3 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-170",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-22",
+   "due": "2026-09-23",
+   "summary": "2.2 — Week 3 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-174",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-15",
+   "due": "2026-09-16",
+   "summary": "2.2 — Week 2 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-176",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-24",
+   "due": "2026-09-25",
+   "summary": "2.4b — Week 3 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-178",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-09-24",
+   "due": "2026-09-25",
+   "summary": "2.6 — Week 3 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-180",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-06",
+   "due": "2026-10-07",
+   "summary": "2.2 — Week 5 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-182",
+   "epic": "RMI101-117",
+   "status": "To do",
+   "start": "2026-10-01",
+   "due": "2026-10-02",
+   "summary": "2.4a — Week 4 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-183",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-01",
+   "due": "2026-10-02",
+   "summary": "2.6 — Week 4 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-185",
+   "epic": "RMI101-117",
+   "status": "To do",
+   "start": "2026-09-24",
+   "due": "2026-09-25",
+   "summary": "2.4a — Week 3 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-187",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-13",
+   "due": "2026-10-14",
+   "summary": "2.2 — Week 6 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-189",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-08",
+   "due": "2026-10-09",
+   "summary": "2.6 — Week 5- Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-191",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-20",
+   "due": "2026-10-23",
+   "summary": "2.2 — Week 0 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-193",
+   "epic": "RMI101-117",
+   "status": "To do",
+   "start": "2026-10-19",
+   "due": "2026-10-19",
+   "summary": "2.3, 2.7, 2.8 — Week 6 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-195",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-27",
+   "due": "2026-10-28",
+   "summary": "2.2 — Assessment - authoring"
+  },
+  {
+   "key": "RMI101-197",
+   "epic": "RMI101-117",
+   "status": "In progress",
+   "start": "2026-10-22",
+   "due": "2026-10-23",
+   "summary": "2.4b — Week 0 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-203",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-08",
+   "due": "2026-10-09",
+   "summary": "2.4b — Week 5 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-205",
+   "epic": "RMI101-117",
+   "status": "In progress",
+   "start": "2026-10-12",
+   "due": "2026-10-12",
+   "summary": "2.3, 2.7, 2.8 — Week 5 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-206",
+   "epic": "RMI101-117",
+   "status": "In progress",
+   "start": "2026-10-15",
+   "due": "2026-10-16",
+   "summary": "2.6 — Week 6 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-208",
+   "epic": "RMI101-117",
+   "status": "To do",
+   "start": "2026-10-08",
+   "due": "2026-10-19",
+   "summary": "2.4a — Week 5 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-210",
+   "epic": "RMI101-117",
+   "status": "To do",
+   "start": "2026-10-15",
+   "due": "2026-10-16",
+   "summary": "2.4a — Week 6 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-212",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-15",
+   "due": "2026-10-16",
+   "summary": "2.4b — Week 6 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-216",
+   "epic": "RMI101-117",
+   "status": "To do",
+   "start": "2026-10-19",
+   "due": "2026-10-19",
+   "summary": "2.11 — Week 6 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-219",
+   "epic": "RMI101-117",
+   "status": "To do",
+   "start": "2026-10-22",
+   "due": "2026-10-23",
+   "summary": "2.4a — Week 0 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-221",
+   "epic": "RMI101-117",
+   "status": "Done",
+   "start": "2026-10-22",
+   "due": "2026-10-23",
+   "summary": "2.6 — Week 0 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-223",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-20",
+   "due": "2026-10-23",
+   "summary": "2.2 — Week 1 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-224",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-27",
+   "summary": "2.6 — Week 2 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-225",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-26",
+   "summary": "2.3, 2.7, 2.8 — Week 1 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-226",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-03",
+   "summary": "2.11 — Week 3 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-227",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-27",
+   "summary": "2.4a — Week 2 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-228",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-05",
+   "due": "2026-11-05",
+   "summary": "2.3, 2.7, 2.8 — Week 4 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-229",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-02",
+   "summary": "2.2 — Week 4 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-230",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-11",
+   "due": "2026-11-11",
+   "summary": "2.11 — Week 5 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-231",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "2.4b — Week 4 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-232",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-23",
+   "due": "2026-11-23",
+   "summary": "2.11 — Assessment - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-233",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-22",
+   "due": "2026-10-23",
+   "summary": "2.6 — Week 1 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-234",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-22",
+   "due": "2026-10-23",
+   "summary": "2.4b — Week 1 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-235",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-22",
+   "due": "2026-10-23",
+   "summary": "2.4a — Week 1 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-236",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-26",
+   "summary": "2.11 — Week 1 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-238",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-28",
+   "due": "2026-10-28",
+   "summary": "2.11 — Week 2 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-239",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-28",
+   "due": "2026-10-28",
+   "summary": "2.3, 2.7, 2.8 — Week 2 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-240",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-05",
+   "due": "2026-11-05",
+   "summary": "2.11 — Week 4 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-242",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-19",
+   "summary": "2.3, 2.7, 2.8 — Week 0 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-244",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-20",
+   "summary": "2.6 — Assessment - SME Review"
+  },
+  {
+   "key": "RMI101-245",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-19",
+   "summary": "2.11 — Week 0 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-247",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-23",
+   "due": "2026-11-23",
+   "summary": "2.3, 2.7, 2.8 — Assessment -  Remediation"
+  },
+  {
+   "key": "RMI101-249",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-27",
+   "summary": "2.4b — Week 2 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-250",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-03",
+   "summary": "2.3, 2.7, 2.8 — Week 3 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-251",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-27",
+   "due": "2026-10-29",
+   "summary": "2.2 — Week 3 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-253",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-20",
+   "due": "2026-10-23",
+   "summary": "2.2 — Week 2 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-254",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-02",
+   "summary": "2.4b — Week 3 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-255",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-02",
+   "summary": "2.6 — Week 3 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-256",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-04",
+   "due": "2026-11-06",
+   "summary": "2.2 — Week 5 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-257",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "2.4a — Week 4 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-258",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "2.6 — Week 4 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-259",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-02",
+   "summary": "2.4a — Week 3 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-260",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-09",
+   "due": "2026-11-10",
+   "summary": "2.2 — Week 6 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-261",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-09",
+   "due": "2026-11-10",
+   "summary": "2.6 — Week 5- Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-262",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-16",
+   "summary": "2.2 — Week 0 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-263",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-13",
+   "summary": "2.3, 2.7, 2.8 — Week 6 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-264",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-18",
+   "summary": "2.2 — Assessment - authoring"
+  },
+  {
+   "key": "RMI101-265",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-18",
+   "summary": "2.4b — Week 0 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-268",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-09",
+   "due": "2026-11-10",
+   "summary": "2.4b — Week 5 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-269",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-11",
+   "due": "2026-11-11",
+   "summary": "2.3, 2.7, 2.8 — Week 5 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-270",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-11",
+   "due": "2026-11-12",
+   "summary": "2.6 — Week 6 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-271",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-09",
+   "due": "2026-11-10",
+   "summary": "2.4a — Week 5 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-272",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-11",
+   "due": "2026-11-12",
+   "summary": "2.4a — Week 6 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-274",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-11",
+   "due": "2026-11-12",
+   "summary": "2.4b — Week 6 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-275",
+   "epic": "RMI101-273",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-12",
+   "summary": "4.1 — Handover email and delivery"
+  },
+  {
+   "key": "RMI101-278",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-13",
+   "summary": "2.11 — Week 6 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-280",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-18",
+   "summary": "2.4a — Week 0 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-282",
+   "epic": "RMI101-222",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-18",
+   "summary": "2.6 — Week 0 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-283",
+   "epic": "RMI101-273",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-25",
+   "summary": "5.1 — Post go-live hot fix and remediation — 2 weeks"
+  },
+  {
+   "key": "RMI101-315",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-10",
+   "due": "2026-09-10",
+   "summary": "3.1 — Build briefing and Canvas shell setup"
+  },
+  {
+   "key": "RMI101-316",
+   "epic": "RMI101-314",
+   "status": "Done",
+   "start": "2026-09-10",
+   "due": "2026-09-10",
+   "summary": "3.1 — Build briefing and Canvas shell setup"
+  },
+  {
+   "key": "RMI101-317",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-18",
+   "due": "2026-09-21",
+   "summary": "3.4 — T1 Week 1 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-318",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-20",
+   "due": "2026-10-20",
+   "summary": "3.6 — T1 Week 5 - Build Remediation"
+  },
+  {
+   "key": "RMI101-319",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-23",
+   "due": "2026-10-29",
+   "summary": "3.2a — T1 Week 0 - Technical Build"
+  },
+  {
+   "key": "RMI101-321",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-02",
+   "summary": "3.4 — T1 Week 0 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-322",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-26",
+   "summary": "3.1 — Build briefing and Canvas shell setup"
+  },
+  {
+   "key": "RMI101-323",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-11-09",
+   "summary": "3.4 — T1 Assessment - Build client environment QA"
+  },
+  {
+   "key": "RMI101-324",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-26",
+   "summary": "3.1 — Build briefing and Canvas shell setup"
+  },
+  {
+   "key": "RMI101-325",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-11-10",
+   "due": "2026-11-10",
+   "summary": "3.6 — T1 Assessment - Build Remediation"
+  },
+  {
+   "key": "RMI101-326",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "3.4 — T1 Week 1 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-327",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-18",
+   "due": "2026-10-29",
+   "summary": "3.2a — H5P and interactive element build"
+  },
+  {
+   "key": "RMI101-328",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-01",
+   "due": "2026-12-01",
+   "summary": "3.6 — T1 Week 5 - Build Remediation"
+  },
+  {
+   "key": "RMI101-329",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-08",
+   "due": "2026-12-10",
+   "summary": "3.2a — T1 Week 0 - Technical Build"
+  },
+  {
+   "key": "RMI101-330",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-11-11",
+   "due": "2026-11-11",
+   "summary": "3.7 — Client email sign-off (Gateway 3)"
+  },
+  {
+   "key": "RMI101-331",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-22",
+   "due": "2026-09-22",
+   "summary": "3.6 — T1 Week 1 - Build Remediation"
+  },
+  {
+   "key": "RMI101-332",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-08",
+   "due": "2026-12-11",
+   "summary": "3.4 — T1 Week 0 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-333",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-11",
+   "due": "2026-09-17",
+   "summary": "3.2a — T1 Week 1 - Technical Build"
+  },
+  {
+   "key": "RMI101-334",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-13",
+   "due": "2026-12-14",
+   "summary": "3.4 — T1 Assessment - Build client environment QA"
+  },
+  {
+   "key": "RMI101-335",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-02",
+   "due": "2026-10-08",
+   "summary": "3.2a — T1 Week 4 - Technical Build"
+  },
+  {
+   "key": "RMI101-336",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-15",
+   "due": "2026-12-15",
+   "summary": "3.6 — T1 Assessment - Build Remediation"
+  },
+  {
+   "key": "RMI101-337",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-18",
+   "due": "2026-09-24",
+   "summary": "3.2a — T1 Week 2 - Technical Build"
+  },
+  {
+   "key": "RMI101-338",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-12-17",
+   "summary": "3.2a — H5P and interactive element build"
+  },
+  {
+   "key": "RMI101-339",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-03",
+   "summary": "3.6 — T1 Week 0 - Build Remediation"
+  },
+  {
+   "key": "RMI101-340",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-15",
+   "due": "2026-12-15",
+   "summary": "3.7 — Client email sign-off (Gateway 3)"
+  },
+  {
+   "key": "RMI101-341",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-16",
+   "due": "2026-10-22",
+   "summary": "3.2a — T1 Week 6 - Technical Build"
+  },
+  {
+   "key": "RMI101-342",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-11-06",
+   "summary": "3.6 — T1 Week 1 - Build Remediation"
+  },
+  {
+   "key": "RMI101-343",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-11-10",
+   "due": "2026-11-10",
+   "summary": "3.3, 3.7 — Build review — submission and handover pack"
+  },
+  {
+   "key": "RMI101-344",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-06",
+   "summary": "3.2a — T1 Week 1 - Technical Build"
+  },
+  {
+   "key": "RMI101-345",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-25",
+   "due": "2026-09-28",
+   "summary": "3.4 — T1 Week 2 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-346",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-20",
+   "due": "2026-11-25",
+   "summary": "3.2a — T1 Week 4 - Technical Build"
+  },
+  {
+   "key": "RMI101-347",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-09",
+   "due": "2026-10-12",
+   "summary": "3.4 — T1 Week 4 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-348",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-09",
+   "due": "2026-11-13",
+   "summary": "3.2a — T1 Week 2 - Technical Build"
+  },
+  {
+   "key": "RMI101-349",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-29",
+   "due": "2026-09-29",
+   "summary": "3.6 — T1 Week 2 - Build Remediation"
+  },
+  {
+   "key": "RMI101-350",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-10",
+   "due": "2026-12-10",
+   "summary": "3.6 — T1 Week 0 - Build Remediation"
+  },
+  {
+   "key": "RMI101-351",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-27",
+   "due": "2026-10-27",
+   "summary": "3.6 — T1 Week 6 - Build Remediation"
+  },
+  {
+   "key": "RMI101-352",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-02",
+   "due": "2026-12-07",
+   "summary": "3.2a — T1 Week 6 - Technical Build"
+  },
+  {
+   "key": "RMI101-353",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-13",
+   "due": "2026-10-13",
+   "summary": "3.6 — T1 Week 4 - Build Remediation"
+  },
+  {
+   "key": "RMI101-354",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-16",
+   "due": "2026-12-16",
+   "summary": "3.3, 3.7 — Build review — submission and handover pack"
+  },
+  {
+   "key": "RMI101-355",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-05",
+   "summary": "3.2a — T1 Assessment - Technical Build"
+  },
+  {
+   "key": "RMI101-356",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-11",
+   "due": "2026-11-12",
+   "summary": "3.4 — T1 Week 2 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-357",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-02",
+   "due": "2026-10-05",
+   "summary": "3.4 — T1 Week 3 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-358",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-22",
+   "due": "2026-11-25",
+   "summary": "3.4 — T1 Week 4 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-359",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-09-25",
+   "due": "2026-10-01",
+   "summary": "3.2a — T1 Week 3 - Technical Build"
+  },
+  {
+   "key": "RMI101-360",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-13",
+   "summary": "3.6 — T1 Week 2 - Build Remediation"
+  },
+  {
+   "key": "RMI101-361",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-09",
+   "due": "2026-10-15",
+   "summary": "3.2a — T1 Week 5 - Technical Build"
+  },
+  {
+   "key": "RMI101-362",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-07",
+   "due": "2026-12-07",
+   "summary": "3.6 — T1 Week 6 - Build Remediation"
+  },
+  {
+   "key": "RMI101-363",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-06",
+   "due": "2026-10-06",
+   "summary": "3.6 — T1 Week 3 - Build Remediation"
+  },
+  {
+   "key": "RMI101-364",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-25",
+   "due": "2026-11-25",
+   "summary": "3.6 — T1 Week 4 - Build Remediation"
+  },
+  {
+   "key": "RMI101-365",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-23",
+   "due": "2026-10-26",
+   "summary": "3.4 — T1 Week 6 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-366",
+   "epic": "RMI101-314",
+   "status": "To do",
+   "start": "2026-10-16",
+   "due": "2026-10-19",
+   "summary": "3.4 — T1 Week 5 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-367",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-11",
+   "due": "2026-12-15",
+   "summary": "3.2a — T1 Assessment - Technical Build"
+  },
+  {
+   "key": "RMI101-368",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-18",
+   "due": "2026-11-19",
+   "summary": "3.4 — T1 Week 3 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-369",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-16",
+   "due": "2026-11-19",
+   "summary": "3.2a — T1 Week 3 - Technical Build"
+  },
+  {
+   "key": "RMI101-370",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-26",
+   "due": "2026-12-01",
+   "summary": "3.2a — T1 Week 5 - Technical Build"
+  },
+  {
+   "key": "RMI101-371",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-19",
+   "summary": "3.6 — T1 Week 3 - Build Remediation"
+  },
+  {
+   "key": "RMI101-372",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-12-05",
+   "due": "2026-12-06",
+   "summary": "3.4 — T1 Week 6 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-373",
+   "epic": "RMI101-320",
+   "status": "To do",
+   "start": "2026-11-30",
+   "due": "2026-12-01",
+   "summary": "3.4 — T1 Week 5 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-394",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-27",
+   "summary": "2.2 — Week 1 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-396",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-27",
+   "due": "2026-10-28",
+   "summary": "2.6 — Week 1 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-397",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-26",
+   "due": "2026-10-28",
+   "summary": "2.4b — Week 1 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-398",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-27",
+   "due": "2026-10-28",
+   "summary": "2.4a — Week 1 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-399",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-29",
+   "due": "2026-10-29",
+   "summary": "2.3, 2.7, 2.8 — Week 1 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-400",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-29",
+   "due": "2026-10-29",
+   "summary": "2.11 — Week 1 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-401",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-27",
+   "due": "2026-10-28",
+   "summary": "2.2 — Week 2 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-403",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-29",
+   "due": "2026-10-30",
+   "summary": "2.6 — Week 2 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-404",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-29",
+   "due": "2026-10-30",
+   "summary": "2.4b — Week 2 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-405",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-29",
+   "due": "2026-10-30",
+   "summary": "2.4a — Week 2 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-406",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-02",
+   "due": "2026-11-02",
+   "summary": "2.3, 2.7, 2.8 — Week 2 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-407",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-02",
+   "due": "2026-11-02",
+   "summary": "2.11 — Week 2 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-408",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-02",
+   "summary": "2.2 — Week 3 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-410",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "2.6 — Week 3 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-411",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "2.4b — Week 3 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-412",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "2.4a — Week 3 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-413",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-05",
+   "due": "2026-11-05",
+   "summary": "2.3, 2.7, 2.8 — Week 3 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-414",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-05",
+   "due": "2026-11-05",
+   "summary": "2.11 — Week 3 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-415",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-03",
+   "due": "2026-11-04",
+   "summary": "2.2 — Week 4 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-417",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-05",
+   "due": "2026-11-06",
+   "summary": "2.6 — Week 4 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-418",
+   "epic": "RMI101-391",
+   "status": "In progress",
+   "start": "2026-11-05",
+   "due": "2026-11-06",
+   "summary": "2.4b — Week 4 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-419",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-05",
+   "due": "2026-11-06",
+   "summary": "2.4a — Week 4 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-420",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-09",
+   "due": "2026-11-09",
+   "summary": "2.3, 2.7, 2.8 — Week 4 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-421",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-09",
+   "due": "2026-11-09",
+   "summary": "2.11 — Week 4 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-422",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-11-09",
+   "summary": "2.2 — Week 5 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-424",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-10",
+   "due": "2026-11-11",
+   "summary": "2.6 — Week 5- Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-425",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-10",
+   "due": "2026-11-11",
+   "summary": "2.4b — Week 5 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-426",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-10",
+   "due": "2026-11-11",
+   "summary": "2.4a — Week 5 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-427",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-12",
+   "summary": "2.3, 2.7, 2.8 — Week 5 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-428",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-12",
+   "summary": "2.11 — Week 5 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-429",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-10",
+   "due": "2026-11-11",
+   "summary": "2.2 — Week 6 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-431",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-13",
+   "summary": "2.6 — Week 6 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-432",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-13",
+   "summary": "2.4b — Week 6 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-433",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-12",
+   "due": "2026-11-13",
+   "summary": "2.4a — Week 6 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-434",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-16",
+   "due": "2026-11-16",
+   "summary": "2.3, 2.7, 2.8 — Week 6 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-435",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-16",
+   "due": "2026-11-16",
+   "summary": "2.11 — Week 6 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-436",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-26",
+   "due": "2026-11-27",
+   "summary": "2.2 — Week 0 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-438",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-30",
+   "due": "2026-12-01",
+   "summary": "2.6 — Week 0 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-439",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-30",
+   "due": "2026-12-01",
+   "summary": "2.4b — Week 0 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-440",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-30",
+   "due": "2026-12-01",
+   "summary": "2.4a — Week 0 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-441",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-12-02",
+   "due": "2026-12-02",
+   "summary": "2.3, 2.7, 2.8 — Week 0 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-442",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-12-02",
+   "due": "2026-12-02",
+   "summary": "2.11 — Week 0 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-443",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-26",
+   "due": "2026-11-27",
+   "summary": "2.2 — Assessment - authoring"
+  },
+  {
+   "key": "RMI101-444",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-30",
+   "due": "2026-12-01",
+   "summary": "2.6 — Assessment - SME Review"
+  },
+  {
+   "key": "RMI101-445",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-12-02",
+   "due": "2026-12-02",
+   "summary": "2.3, 2.7, 2.8 — Assessment -  Remediation"
+  },
+  {
+   "key": "RMI101-446",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-12-03",
+   "due": "2026-12-03",
+   "summary": "2.11 — Assessment - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-448",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-10-29",
+   "due": "2026-10-29",
+   "summary": "3.1 — Build briefing and Canvas shell setup"
+  },
+  {
+   "key": "RMI101-449",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-10-29",
+   "due": "2026-10-29",
+   "summary": "3.1 — Build briefing and Canvas shell setup"
+  },
+  {
+   "key": "RMI101-450",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-11-09",
+   "summary": "3.4 — T1 Week 1 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-451",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-24",
+   "due": "2026-11-24",
+   "summary": "3.6 — T1 Week 5 - Build Remediation"
+  },
+  {
+   "key": "RMI101-452",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-04",
+   "due": "2026-12-10",
+   "summary": "3.2a — T1 Week 0 - Technical Build"
+  },
+  {
+   "key": "RMI101-453",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-08",
+   "due": "2026-12-09",
+   "summary": "3.4 — T1 Week 0 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-454",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-08",
+   "due": "2026-12-09",
+   "summary": "3.4 — T1 Assessment - Build client environment QA"
+  },
+  {
+   "key": "RMI101-455",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-11",
+   "due": "2026-12-11",
+   "summary": "3.6 — T1 Assessment - Build Remediation"
+  },
+  {
+   "key": "RMI101-456",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-12-16",
+   "summary": "3.2a — H5P and interactive element build"
+  },
+  {
+   "key": "RMI101-457",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-14",
+   "due": "2026-12-14",
+   "summary": "3.7 — Client email sign-off (Gateway 3)"
+  },
+  {
+   "key": "RMI101-458",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-10",
+   "due": "2026-11-10",
+   "summary": "3.6 — T1 Week 1 - Build Remediation"
+  },
+  {
+   "key": "RMI101-459",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-05",
+   "summary": "3.2a — T1 Week 1 - Technical Build"
+  },
+  {
+   "key": "RMI101-460",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-11-12",
+   "summary": "3.2a — T1 Week 4 - Technical Build"
+  },
+  {
+   "key": "RMI101-461",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-10-30",
+   "due": "2026-11-05",
+   "summary": "3.2a — T1 Week 2 - Technical Build"
+  },
+  {
+   "key": "RMI101-462",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-11",
+   "due": "2026-12-11",
+   "summary": "3.6 — T1 Week 0 - Build Remediation"
+  },
+  {
+   "key": "RMI101-463",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-19",
+   "summary": "3.2a — T1 Week 6 - Technical Build"
+  },
+  {
+   "key": "RMI101-464",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-11",
+   "due": "2026-12-11",
+   "summary": "3.3, 3.7 — Build review — submission and handover pack"
+  },
+  {
+   "key": "RMI101-465",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-11-09",
+   "summary": "3.4 — T1 Week 2 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-466",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-16",
+   "summary": "3.4 — T1 Week 4 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-467",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-10",
+   "due": "2026-11-10",
+   "summary": "3.6 — T1 Week 2 - Build Remediation"
+  },
+  {
+   "key": "RMI101-468",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-24",
+   "due": "2026-11-24",
+   "summary": "3.6 — T1 Week 6 - Build Remediation"
+  },
+  {
+   "key": "RMI101-469",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-17",
+   "summary": "3.6 — T1 Week 4 - Build Remediation"
+  },
+  {
+   "key": "RMI101-470",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-04",
+   "due": "2026-12-10",
+   "summary": "3.2a — T1 Assessment - Technical Build"
+  },
+  {
+   "key": "RMI101-471",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-16",
+   "summary": "3.4 — T1 Week 3 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-472",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-06",
+   "due": "2026-11-12",
+   "summary": "3.2a — T1 Week 3 - Technical Build"
+  },
+  {
+   "key": "RMI101-473",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-19",
+   "summary": "3.2a — T1 Week 5 - Technical Build"
+  },
+  {
+   "key": "RMI101-474",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-17",
+   "summary": "3.6 — T1 Week 3 - Build Remediation"
+  },
+  {
+   "key": "RMI101-475",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-20",
+   "due": "2026-11-23",
+   "summary": "3.4 — T1 Week 6 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-476",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-20",
+   "due": "2026-11-23",
+   "summary": "3.4 — T1 Week 5 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-477",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-13",
+   "due": "2026-11-16",
+   "summary": "2.2 — Week 7 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-479",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-18",
+   "summary": "2.6 — Week 7 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-480",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-18",
+   "summary": "2.4b — Week 7 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-481",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-18",
+   "summary": "2.4a — Week 7 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-482",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-19",
+   "summary": "2.3, 2.7, 2.8 — Week 7 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-483",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-19",
+   "summary": "2.11 — Week 7 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-484",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-17",
+   "due": "2026-11-18",
+   "summary": "2.2 — Week 8 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-486",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-20",
+   "summary": "2.6 — Week 8 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-487",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-20",
+   "summary": "2.4b — Week 8 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-488",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-19",
+   "due": "2026-11-20",
+   "summary": "2.4a — Week 8 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-489",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-23",
+   "due": "2026-11-23",
+   "summary": "2.3, 2.7, 2.8 — Week 8 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-490",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-23",
+   "due": "2026-11-23",
+   "summary": "2.11 — Week 8 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-491",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-20",
+   "due": "2026-11-23",
+   "summary": "2.2 — Week 9 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-493",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-24",
+   "due": "2026-11-25",
+   "summary": "2.6 — Week 9 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-494",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-24",
+   "due": "2026-11-25",
+   "summary": "2.4b — Week 9 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-495",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-24",
+   "due": "2026-11-25",
+   "summary": "2.4a — Week 9 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-496",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-26",
+   "due": "2026-11-26",
+   "summary": "2.3, 2.7, 2.8 — Week 9 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-497",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-26",
+   "due": "2026-11-26",
+   "summary": "2.11 — Week 9 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-498",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-24",
+   "due": "2026-11-25",
+   "summary": "2.2 — Week 10 - Storyboard authoring"
+  },
+  {
+   "key": "RMI101-500",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-26",
+   "due": "2026-11-27",
+   "summary": "2.6 — Week 10 - Storyboard - SME Review"
+  },
+  {
+   "key": "RMI101-501",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-26",
+   "due": "2026-11-27",
+   "summary": "2.4b — Week 10 - Synthesia videos (3-5min)"
+  },
+  {
+   "key": "RMI101-502",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-26",
+   "due": "2026-11-27",
+   "summary": "2.4a — Week 10 - Graphic design assets"
+  },
+  {
+   "key": "RMI101-503",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-30",
+   "due": "2026-11-30",
+   "summary": "2.3, 2.7, 2.8 — Week 10 - Storyboard Remediation"
+  },
+  {
+   "key": "RMI101-504",
+   "epic": "RMI101-391",
+   "status": "To do",
+   "start": "2026-11-30",
+   "due": "2026-11-30",
+   "summary": "2.11 — Week 10 - Design Milestone - Client Sign-Off (Gateway 2)"
+  },
+  {
+   "key": "RMI101-505",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-20",
+   "due": "2026-11-26",
+   "summary": "3.2a — T1 Week 7 - Technical Build"
+  },
+  {
+   "key": "RMI101-506",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-27",
+   "due": "2026-11-30",
+   "summary": "3.4 — T1 Week 7 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-507",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-01",
+   "due": "2026-12-01",
+   "summary": "3.6 — T1 Week 7 - Build Remediation"
+  },
+  {
+   "key": "RMI101-508",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-20",
+   "due": "2026-11-26",
+   "summary": "3.2a — T1 Week 8 - Technical Build"
+  },
+  {
+   "key": "RMI101-509",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-27",
+   "due": "2026-11-30",
+   "summary": "3.4 — T1 Week 8 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-510",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-01",
+   "due": "2026-12-01",
+   "summary": "3.6 — T1 Week 8 - Build Remediation"
+  },
+  {
+   "key": "RMI101-511",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-27",
+   "due": "2026-12-03",
+   "summary": "3.2a — T1 Week 9 - Technical Build"
+  },
+  {
+   "key": "RMI101-512",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-04",
+   "due": "2026-12-07",
+   "summary": "3.4 — T1 Week 9 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-513",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-08",
+   "due": "2026-12-08",
+   "summary": "3.6 — T1 Week 9 - Build Remediation"
+  },
+  {
+   "key": "RMI101-514",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-11-27",
+   "due": "2026-12-03",
+   "summary": "3.2a — T1 Week 10 - Technical Build"
+  },
+  {
+   "key": "RMI101-515",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-04",
+   "due": "2026-12-07",
+   "summary": "3.4 — T1 Week 10 - Build client environment QA"
+  },
+  {
+   "key": "RMI101-516",
+   "epic": "RMI101-447",
+   "status": "To do",
+   "start": "2026-12-08",
+   "due": "2026-12-08",
+   "summary": "3.6 — T1 Week 10 - Build Remediation"
+  },
+  {
+   "key": "RMI101-542",
+   "epic": "RMI101-2",
+   "status": "Done",
+   "start": "2026-09-20",
+   "due": "2026-10-13",
+   "summary": "1.11, 1.12 — Tranche 2 Blueprinting Sessions"
+  },
+  {
+   "key": "RMI101-543",
+   "epic": "RMI101-2",
+   "status": "In progress",
+   "start": "2026-09-29",
+   "due": "2026-10-03",
+   "summary": "Tranche 2 Blueprint finalisation (Gateway 1)"
+  }
+ ]
+}

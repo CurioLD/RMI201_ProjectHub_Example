@@ -1,0 +1,17 @@
+[build]
+  publish = "site"
+  command = ""
+
+# Keep the hub out of search engines (it's an unlisted link).
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer"
+
+# Always fetch the latest data.
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Cache-Control = "no-cache"

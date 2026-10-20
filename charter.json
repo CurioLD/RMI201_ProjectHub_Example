@@ -1,0 +1,283 @@
+{
+ "scope": [
+  {
+   "code": "BUSM2639",
+   "course": "Foundations of People Analytics",
+   "scope": "Postgraduate refresh",
+   "complexity": "Medium",
+   "tranche": "Tranche 1",
+   "modules": 6,
+   "videos": 7,
+   "assessments": 3
+  },
+  {
+   "code": "ISYS3488",
+   "course": "AI Strategy for Business",
+   "scope": "Postgraduate new build",
+   "complexity": "Highly complex",
+   "tranche": "Tranche 1",
+   "modules": 6,
+   "videos": 7,
+   "assessments": 3
+  },
+  {
+   "code": "BUSM4497",
+   "course": "Global HRM",
+   "scope": "Postgraduate refresh",
+   "complexity": "Complex",
+   "tranche": "Tranche 2",
+   "modules": 6,
+   "videos": 7,
+   "assessments": 3
+  },
+  {
+   "code": "BUSM3125",
+   "course": "Strategy",
+   "scope": "Undergraduate refresh",
+   "complexity": "Highly complex",
+   "tranche": "Tranche 2",
+   "modules": 10,
+   "videos": 11,
+   "assessments": 3
+  }
+ ],
+ "milestones": [
+  {
+   "id": "kickoff",
+   "milestone": "Kick-off and stakeholder alignment",
+   "t1": "24 August 2026",
+   "t1_date": "2026-08-24",
+   "t2": "8 October 2026",
+   "t2_date": "2026-10-08"
+  },
+  {
+   "id": "g1",
+   "milestone": "Gateway 1: Blueprint review",
+   "t1": "28 August 2026",
+   "t1_date": "2026-08-28",
+   "t2": "12 October 2026",
+   "t2_date": "2026-10-12"
+  },
+  {
+   "id": "g2",
+   "milestone": "Gateway 2: Detailed design review",
+   "t1": "20 October 2026",
+   "t1_date": "2026-10-20",
+   "t2": "1 December 2026",
+   "t2_date": "2026-12-01"
+  },
+  {
+   "id": "g3",
+   "milestone": "Gateway 3: Final sign-off",
+   "t1": "13 November 2026",
+   "t1_date": "2026-11-13",
+   "t2": "10 December 2026",
+   "t2_date": "2026-12-10"
+  },
+  {
+   "id": "handover",
+   "milestone": "Handover to RMIT Online internal teams",
+   "t1": "13 November 2026",
+   "t1_date": "2026-11-13",
+   "t2": "10 December 2026",
+   "t2_date": "2026-12-10"
+  },
+  {
+   "id": "hotfix",
+   "milestone": "Post go-live hot fix and remediation window",
+   "t1": "Two weeks from student start, to be advised",
+   "t1_date": null,
+   "t2": "Two weeks from student start, to be advised",
+   "t2_date": null
+  }
+ ],
+ "people": [
+  {
+   "name": "Lizette Bell",
+   "org": "Curio",
+   "role": "Head of Learning Services, Project Director",
+   "blueprint": "A",
+   "storyboard": "C",
+   "media": "I",
+   "build": "C",
+   "handover": "R"
+  },
+  {
+   "name": "Mel Lizardo",
+   "org": "Curio",
+   "role": "Learning Design Lead",
+   "blueprint": "R",
+   "storyboard": "A",
+   "media": "C",
+   "build": "C",
+   "handover": "C"
+  },
+  {
+   "name": "Joanne Pilapil",
+   "org": "Curio",
+   "role": "Associate Learning Designer",
+   "blueprint": "C",
+   "storyboard": "R",
+   "media": "C",
+   "build": "C",
+   "handover": "I"
+  },
+  {
+   "name": "May Martin",
+   "org": "Curio",
+   "role": "Associate Learning Designer",
+   "blueprint": "C",
+   "storyboard": "R",
+   "media": "C",
+   "build": "C",
+   "handover": "I"
+  },
+  {
+   "name": "Mark Binuya",
+   "org": "Curio",
+   "role": "eLearning Developer, production lead",
+   "blueprint": "C",
+   "storyboard": "C",
+   "media": "A",
+   "build": "A",
+   "handover": "R"
+  },
+  {
+   "name": "Gabby Parish",
+   "org": "Curio",
+   "role": "Graphic Designer",
+   "blueprint": "I",
+   "storyboard": "C",
+   "media": "R",
+   "build": "C",
+   "handover": "I"
+  },
+  {
+   "name": "Kadee Fang",
+   "org": "Curio",
+   "role": "Multimedia Designer",
+   "blueprint": "I",
+   "storyboard": "C",
+   "media": "R",
+   "build": "C",
+   "handover": "I"
+  },
+  {
+   "name": "Mitzi Zagon",
+   "org": "RMIT Online",
+   "role": "Head of Operations, gateway sign-off",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Sarah Kerr",
+   "org": "RMIT Online",
+   "role": "Project contact",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Lionel Chew",
+   "org": "RMIT CoBL",
+   "role": "Senior Manager LD and DD",
+   "blueprint": "I",
+   "storyboard": "I",
+   "media": "I",
+   "build": "I",
+   "handover": "C"
+  },
+  {
+   "name": "Leona Norris",
+   "org": "RMIT CoBL",
+   "role": "Learning Design Manager",
+   "blueprint": "I",
+   "storyboard": "I",
+   "media": "I",
+   "build": "I",
+   "handover": "C"
+  },
+  {
+   "name": "Asanka Gunasekara",
+   "org": "RMIT",
+   "role": "Course Coordinator and SME, BUSM2639",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Samar Fatima",
+   "org": "RMIT",
+   "role": "Course Coordinator and SME, ISYS3488",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Jessica Borg",
+   "org": "RMIT",
+   "role": "Course Coordinator and SME, BUSM4497 (Kriss Lu)",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Margaret Heffernan",
+   "org": "RMIT",
+   "role": "Course Coordinator and SME, BUSM3125 (Don Tennakon)",
+   "blueprint": "",
+   "storyboard": "",
+   "media": "",
+   "build": "",
+   "handover": ""
+  },
+  {
+   "name": "Benedict Ciantar, Mark Brown",
+   "org": "RMIT CoBL",
+   "role": "Learning Designer",
+   "blueprint": "C",
+   "storyboard": "I",
+   "media": "I",
+   "build": "I",
+   "handover": "C"
+  }
+ ],
+ "actions": [
+  {
+   "action": "Blueprinting scheduled",
+   "owner": "RMIT Online",
+   "by": "26 August"
+  },
+  {
+   "action": "Provide Canvas access, LTI credentials and the Tranche 1 source materials",
+   "owner": "RMIT Online",
+   "by": "26 August"
+  },
+  {
+   "action": "Confirm SMEs for each Tranche 1 course",
+   "owner": "RMIT Online and Curio",
+   "by": "26 August"
+  },
+  {
+   "action": "Complete technical and brand intake, and stand up the project board",
+   "owner": "Curio",
+   "by": "28 August"
+  },
+  {
+   "action": "Nominate the BUSM3125 Course Coordinator",
+   "owner": "RMIT Online",
+   "by": "Before 12 October"
+  }
+ ]
+}
