@@ -1,5 +1,5 @@
 [build]
-  publish = "site"
+  publish = "."
   command = ""
 
 # Keep the hub out of search engines (it's an unlisted link).
