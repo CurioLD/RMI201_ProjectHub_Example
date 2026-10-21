@@ -1,6 +1,6 @@
 {
  "project": "RMI101",
- "synced_at": "2026-10-20T22:53:55.781Z",
+ "synced_at": "2026-10-21T22:34:06.113Z",
  "issues": [
   {
    "key": "RMI101-7",
@@ -341,7 +341,7 @@
   {
    "key": "RMI101-60",
    "epic": "RMI101-3",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-19",
    "due": "2026-10-20",
    "summary": "2.4b — Week 6 - Synthesia videos (3-5min)"
@@ -349,7 +349,7 @@
   {
    "key": "RMI101-61",
    "epic": "RMI101-3",
-   "status": "To do",
+   "status": "Done",
    "start": "2026-10-19",
    "due": "2026-10-20",
    "summary": "2.4a — Week 6 - Graphic design assets"
