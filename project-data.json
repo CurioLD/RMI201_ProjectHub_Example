@@ -1,6 +1,6 @@
 {
  "project": "RMI101",
- "synced_at": "2026-10-22T22:56:04.563Z",
+ "synced_at": "2026-10-23T02:47:02.853Z",
  "issues": [
   {
    "key": "RMI101-7",
@@ -965,7 +965,7 @@
   {
    "key": "RMI101-193",
    "epic": "RMI101-117",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-19",
    "due": "2026-10-19",
    "summary": "2.3, 2.7, 2.8 — Week 6 - Storyboard Remediation"
@@ -981,7 +981,7 @@
   {
    "key": "RMI101-197",
    "epic": "RMI101-117",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-22",
    "due": "2026-10-23",
    "summary": "2.4b — Week 0 - Synthesia videos (3-5min)"
@@ -1005,7 +1005,7 @@
   {
    "key": "RMI101-206",
    "epic": "RMI101-117",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-15",
    "due": "2026-10-16",
    "summary": "2.6 — Week 6 - Storyboard - SME Review"
@@ -1037,7 +1037,7 @@
   {
    "key": "RMI101-216",
    "epic": "RMI101-117",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-19",
    "due": "2026-10-19",
    "summary": "2.11 — Week 6 - Design Milestone - Client Sign-Off (Gateway 2)"
