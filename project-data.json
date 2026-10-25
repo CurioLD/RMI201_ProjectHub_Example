@@ -1,6 +1,6 @@
 {
  "project": "RMI101",
- "synced_at": "2026-10-23T02:47:02.853Z",
+ "synced_at": "2026-10-25T22:15:04.170Z",
  "issues": [
   {
    "key": "RMI101-7",
@@ -965,7 +965,7 @@
   {
    "key": "RMI101-193",
    "epic": "RMI101-117",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-19",
    "due": "2026-10-19",
    "summary": "2.3, 2.7, 2.8 — Week 6 - Storyboard Remediation"
@@ -1037,7 +1037,7 @@
   {
    "key": "RMI101-216",
    "epic": "RMI101-117",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-19",
    "due": "2026-10-19",
    "summary": "2.11 — Week 6 - Design Milestone - Client Sign-Off (Gateway 2)"
