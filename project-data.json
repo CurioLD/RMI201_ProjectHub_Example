@@ -1,6 +1,6 @@
 {
  "project": "RMI101",
- "synced_at": "2026-11-10T02:30:18.930Z",
+ "synced_at": "2026-11-11T00:23:40.001Z",
  "issues": [
   {
    "key": "RMI101-7",
@@ -15,7 +15,7 @@
    "epic": "RMI101-1",
    "status": "To do",
    "start": "2026-08-24",
-   "due": "2026-11-11",
+   "due": "2026-12-15",
    "summary": "0.1, 0.2 — Project management, governance and weekly check-ins"
   },
   {
