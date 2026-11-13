@@ -1,6 +1,6 @@
 {
  "project": "RMI101",
- "synced_at": "2026-11-12T01:46:00.207Z",
+ "synced_at": "2026-11-13T00:51:35.911Z",
  "issues": [
   {
    "key": "RMI101-7",
@@ -1277,7 +1277,7 @@
   {
    "key": "RMI101-256",
    "epic": "RMI101-222",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-04",
    "due": "2026-11-06",
    "summary": "2.2 — Week 5 - Storyboard authoring"
@@ -2175,7 +2175,7 @@
    "epic": "RMI101-391",
    "status": "To do",
    "start": "2026-11-12",
-   "due": "2026-11-13",
+   "due": null,
    "summary": "2.4a — Week 6 - Graphic design assets"
   },
   {
