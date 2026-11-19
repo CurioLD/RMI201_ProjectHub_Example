@@ -1,6 +1,6 @@
 {
  "project": "RMI101",
- "synced_at": "2026-11-18T02:01:22.426Z",
+ "synced_at": "2026-11-19T01:38:31.428Z",
  "issues": [
   {
    "key": "RMI101-7",
@@ -325,7 +325,7 @@
   {
    "key": "RMI101-58",
    "epic": "RMI101-3",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-19",
    "due": "2026-10-20",
    "summary": "2.6 — Week 6 - Storyboard - SME Review"
@@ -357,7 +357,7 @@
   {
    "key": "RMI101-62",
    "epic": "RMI101-3",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-21",
    "due": "2026-10-21",
    "summary": "2.11 — Week 6 - Design Milestone - Client Sign-Off (Gateway 2)"
@@ -1423,7 +1423,7 @@
    "epic": "RMI101-222",
    "status": "To do",
    "start": "2026-11-17",
-   "due": "2026-11-18",
+   "due": null,
    "summary": "2.4a — Week 0 - Graphic design assets"
   },
   {
@@ -2535,7 +2535,7 @@
    "epic": "RMI101-391",
    "status": "To do",
    "start": "2026-11-17",
-   "due": "2026-11-18",
+   "due": null,
    "summary": "2.4a — Week 7 - Graphic design assets"
   },
   {
