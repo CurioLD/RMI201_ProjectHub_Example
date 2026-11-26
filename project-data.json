@@ -1,6 +1,6 @@
 {
  "project": "RMI101",
- "synced_at": "2026-11-25T03:19:21.065Z",
+ "synced_at": "2026-11-26T02:36:32.494Z",
  "issues": [
   {
    "key": "RMI101-7",
@@ -477,7 +477,7 @@
   {
    "key": "RMI101-80",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-09-24",
    "due": "2026-09-24",
    "summary": "3.6 — T1 Week 1 - Build Remediation"
@@ -501,7 +501,7 @@
   {
    "key": "RMI101-83",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-01",
    "due": "2026-10-01",
    "summary": "3.6 — T1 Week 2 - Build Remediation"
@@ -525,7 +525,7 @@
   {
    "key": "RMI101-86",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-08",
    "due": "2026-10-08",
    "summary": "3.6 — T1 Week 3 - Build Remediation"
@@ -549,7 +549,7 @@
   {
    "key": "RMI101-89",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-15",
    "due": "2026-10-15",
    "summary": "3.6 — T1 Week 4 - Build Remediation"
@@ -573,7 +573,7 @@
   {
    "key": "RMI101-92",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-22",
    "due": "2026-10-22",
    "summary": "3.6 — T1 Week 5 - Build Remediation"
@@ -597,7 +597,7 @@
   {
    "key": "RMI101-95",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-10-29",
    "due": "2026-10-29",
    "summary": "3.6 — T1 Week 6 - Build Remediation"
@@ -621,7 +621,7 @@
   {
    "key": "RMI101-98",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-05",
    "due": "2026-11-05",
    "summary": "3.6 — T1 Week 0 - Build Remediation"
@@ -645,7 +645,7 @@
   {
    "key": "RMI101-101",
    "epic": "RMI101-4",
-   "status": "In progress",
+   "status": "Done",
    "start": "2026-11-12",
    "due": "2026-11-12",
    "summary": "3.6 — T1 Assessment - Build Remediation"
@@ -1237,7 +1237,7 @@
   {
    "key": "RMI101-250",
    "epic": "RMI101-222",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-03",
    "due": "2026-11-03",
    "summary": "2.3, 2.7, 2.8 — Week 3 - Storyboard Remediation"
@@ -1525,7 +1525,7 @@
   {
    "key": "RMI101-326",
    "epic": "RMI101-320",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-03",
    "due": "2026-11-04",
    "summary": "3.4 — T1 Week 1 - Build client environment QA"
@@ -1669,7 +1669,7 @@
   {
    "key": "RMI101-344",
    "epic": "RMI101-320",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-10-30",
    "due": "2026-11-06",
    "summary": "3.2a — T1 Week 1 - Technical Build"
@@ -1701,7 +1701,7 @@
   {
    "key": "RMI101-348",
    "epic": "RMI101-320",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-09",
    "due": "2026-11-13",
    "summary": "3.2a — T1 Week 2 - Technical Build"
@@ -1765,7 +1765,7 @@
   {
    "key": "RMI101-356",
    "epic": "RMI101-320",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-11",
    "due": "2026-11-12",
    "summary": "3.4 — T1 Week 2 - Build client environment QA"
@@ -1861,7 +1861,7 @@
   {
    "key": "RMI101-368",
    "epic": "RMI101-320",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-18",
    "due": "2026-11-19",
    "summary": "3.4 — T1 Week 3 - Build client environment QA"
@@ -1869,7 +1869,7 @@
   {
    "key": "RMI101-369",
    "epic": "RMI101-320",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-11-16",
    "due": "2026-11-19",
    "summary": "3.2a — T1 Week 3 - Technical Build"
@@ -2325,7 +2325,7 @@
   {
    "key": "RMI101-452",
    "epic": "RMI101-447",
-   "status": "To do",
+   "status": "In progress",
    "start": "2026-12-04",
    "due": "2026-12-10",
    "summary": "3.2a — T1 Week 0 - Technical Build"
@@ -2647,7 +2647,7 @@
    "epic": "RMI101-391",
    "status": "To do",
    "start": "2026-11-24",
-   "due": "2026-11-25",
+   "due": null,
    "summary": "2.4a — Week 9 - Graphic design assets"
   },
   {
